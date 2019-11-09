@@ -1,7 +1,23 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Machine Learning
+  percentage: 80
+  color: success
+
+- name: Deep Learning
+  percentage: 85
+  color: success
+
+- name: Estatistica
+  percentage: 70
+  color: success
+
+- name: Android
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: SageMaker
+  percentage: 65
+  color: success
+
+  - name: Docker
+  percentage: 70
   color: success
