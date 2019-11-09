@@ -5,13 +5,13 @@ description         : >-                               # >- means to ignore newl
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : "/webpage"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
-repository          : rfribeiro/webpage    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
-#remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
+#repository          : rfribeiro/webpage    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
 
 ### Author Info ###
 author:
   name              : Rafael F. Ribeiro
-  image             : https://bit.ly/2KCvgVJ
+  image             : https://avatars3.githubusercontent.com/u/5655897?s=400&u=791c4fa500f516e25eca88ec877865e352db9847&v=4
   behance           : rfribeiro
 # dribbble          : your_username
   email             : rfribeiro@gmail.com
