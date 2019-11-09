@@ -2,11 +2,11 @@
   percentage: 85
   color: danger
 
-  - name: Java
+- name: Java
   percentage: 80
   color: dark
 
-  - name: C
+- name: C
   percentage: 90
   color: success
 
