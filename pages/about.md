@@ -7,8 +7,10 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Olá **{{ site.author.name }}**,<br>
+Eu sou um curioso que adora programar e ultimamente meus interesses são Data Science e Inteligência Artificial.
+
+Finalizei meu mestrado na Universidade de Campinas (UNICAMP) em 2019. Onde meu trabalho feito foi a detecção de atenção do motorista utilizando uma câmera de profundidade estilo Kinect. Utilizei de métodos de aprendizado de máquina modernos como Deep Learning.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
