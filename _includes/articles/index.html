@@ -19,7 +19,7 @@
 
   {% endfor %}
 </div>
- 
+
     <!-- Pagination links -->
     <div class="mx-auto my-3 text-center"">
   
@@ -29,7 +29,7 @@
         <span class="badge badge-light text-muted"><</span>
       {% endif %}
   
-      <small class="mx-2"> Page <b>{{ paginator.page }}</b> of {{ paginator.total_pages }} </small>
+      <small class="mx-2"> Página <b>{{ paginator.page }}</b> of {{ paginator.total_pages }} </small>
   
       {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path | relative_url }}" class="badge badge-primary">></a>
