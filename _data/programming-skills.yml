@@ -1,10 +1,10 @@
 - name: Python
   percentage: 85
-  color: danger
+  color: 
 
 - name: Java
   percentage: 80
-  color: dark
+  color: info
 
 - name: C
   percentage: 90
@@ -12,4 +12,4 @@
 
 - name: C++
   percentage: 90
-  color:
+  color: success

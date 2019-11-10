@@ -1,23 +1,15 @@
-- name: Machine Learning
-  percentage: 80
-  color: success
-
-- name: Deep Learning
-  percentage: 85
-  color: success
-
-- name: Estatistica
-  percentage: 70
-  color: success
-
 - name: Android
-  percentage: 80
-  color: info
+  percentage: 90
+  color: success
 
 - name: SageMaker
   percentage: 65
-  color: success
+  color: warning
 
 - name: Docker
-  percentage: 70
+  percentage: 75
   color: success
+
+- name: Spark
+  percentage: 60
+  color: danger

@@ -1,0 +1,16 @@
+- name: MCP, Developing Applications with C#
+  percentage: 95
+  color: success
+
+- name: PSM I, Scrum Master
+  percentage: 90
+  color: info
+
+- name: SCJP, Java Programmer
+  percentage: 88
+  color: info
+
+- name: ITIL e COBIT
+  percentage: 96
+  color: success
+

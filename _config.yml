@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Meu Blog
+title               : Rafael F. Ribeiro | Data Science e IA
 description         : >-                               # >- means to ignore newlines until "url:"
                       Um cara curioso!.
 
@@ -32,7 +32,7 @@ author:
 
 
 ### Pagination ###
-paginate: 6
+paginate: 10
 paginate_path: "/articles/page-:num/"
 
 
@@ -55,6 +55,12 @@ defaults:
     values:
       layout: "page"
 
+# Tracker
+analytics: UA-83979019-1
+
+# Comments
+disqus: yes
+disqus-shortname: rfribeiro
 
 ### Exclude from processing ###
 exclude:

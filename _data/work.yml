@@ -1,24 +1,39 @@
 - title: Engenheiro de Software, Motorola Mobility
   from: 2017
   to: present
-  description: TODO 1
+  description: Trabalhando no desenvolvimento de novos modelos de celulares.
+          Desenvolvimento de novas features em Android para atender demandas das operadoras.
+          Direcionando times globais na resolução de problemas criticos do produto.
+
 
 - title: Engenheiro de Software, Samsung Electronics
   from: 2014
   to: 2017
-  description: TODO 2
+  description: Desenvolvimento de novas features para a plataforma Tizen;
+          Trabalhando em novas features na camada de framework do Android.
 
 - title: Engenheiro de Software, LG Electronics
   from: 2007
   to: 2014
-  description: TODO 3
+  description: Desenvolvimento e manutenção do software dos novos modelos de celulares da companhia.
+          Adaptação do software para as operadoras de telefonia do Brasil e América Latina.
+          Desenvolvimento mobile para plataforma Android e Linux embarcado.
+          Conhecimento especificação redes de telefonia.
+          Cooperação no desenvolvimento de uma plataforma para trabalhar com SIM cards (patente em registro)
+          Cooperação no desenvolvimento, arquitetura e implementação do padrão GINGA para o primeiro modelo Brasileiro com esta tecnologia (patente em registro)
+          Trabalhando em conjunto com outros laboratórios (Índia e Coreia) na resolução de problemas.
 
 - title: Analista de Sistemas, Instituto de Pesquisas Eldorado 
   from: 2006
   to: 2007
-  description: TODO 3
+  description: Desenvolvimento e resolução de problemas para plataforma de celulares.
+          Atuando como parceiro da Motorola no desenvolvimento de celulares.
+          Cooperação no projeto de PTV (push on vídeo) para plataforma linux.
 
 - title: Analista de Sistemas, HST 
   from: 2004
   to: 2006
-  description: TODO 4
+  description: Trabalhei com desenvolvimento de software para caixas eletrônicos para os maiores bancos do Brasil e América Latina.
+          Trabalhei com desenvolvimento de “device drivers” para caixas eletrônicos.
+          Grande conhecimento de smart cards e criptografia.
+          Trabalhei como desenvolvedor e líder técnico do projeto do novo sistema dos caixas eletrônicos para Banco Leon (Republica Dominicana) 

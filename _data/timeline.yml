@@ -2,30 +2,34 @@
   from: 2016
   to: 2019
   description: Mestre em Engenharia Elétrica com enfase em Computação com nota final CR 4.0.
+            
             Dissertação de pesquisa aplicada no desenvolvimento do modelo e sistema embarcado
-            para detectar a atenção do motorista utilizando uma camera de profundidade. Todas as
-            imagens foram coletadas durante este projeto e resultou em um artigo publicado e 
-            apresentado na conferencia ["R. F. Ribeiro and P. D. P. Costa, "Driver Gaze Zone 
-            Dataset With Depth Data," 2019 14th IEEE International Conference on Automatic Face 
-            & Gesture Recognition (FG 2019), Lille, France, 2019, pp. 1-5."](https://ieeexplore.ieee.org/document/8756592). 
+            para detectar a atenção do motorista utilizando uma camera de profundidade. 
+            
+            Todas as imagens foram coletadas durante este projeto e resultou em um artigo publicado e 
+            apresentado na conferencia 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2019)
+            (https://ieeexplore.ieee.org/document/8756592). 
+            
             O modelo foi desenvolvido utilizando visão computacional e técnicas de aprendizado de máquina,
             especificamente utilizando transferência de aprendizado de redes pré-treinadas como VGG, ResNet, MobileNet e SqueezeNet. 
-
-- title: Extensão Mineração de Dados, Mineração de Dados Complexos, Universidade de Campinas (Unicamp), SP
+            
+- title: Extensão em Mineração de Dados Complexos, Universidade de Campinas (Unicamp), SP
   from: 2018
   to: 2018
-  description: (https://www.ic.unicamp.br/~mdc/) O Curso de Aperfeiçoamento em Mineração de Dados 
+  description: O Curso de Aperfeiçoamento em Mineração de Dados 
             Complexos tem como objetivo capacitar profissionais para o mercado de trabalho 
             atual, com ênfase em (1) melhorar o gerenciamento de dados pensando em velocidade,
              capacidade e escalabilidade; (2) desenvolver técnicas de visualização destes dados;
               (3) encontrar novas oportunidades de negócio; (4) melhorar a capacidade de análise 
               dos dados; e (5) criar modelos preditivos utilizando os métodos mais modernos de 
               aprendizado de máquina.
+              (https://www.ic.unicamp.br/~mdc/) 
 
 - title: Engenheiro da Computaçao, Escola de Engenharia de Lins, SP
   from: 1999
   to: 2003
   description: Formando em Engenharia da Computação em 2003 com nota final de 8.1, 
-            o projeto final foi o desenvolvimento de um braço robótico utilizando servo motores 
+
+            O projeto final foi o desenvolvimento de um braço robótico utilizando servo motores 
             e com um firmware no microcontrolador 8051, que se comunicava com um servidor no 
             computador e era controlado por um joystick de playstastion.
