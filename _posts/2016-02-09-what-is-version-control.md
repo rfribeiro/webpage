@@ -1,6 +1,7 @@
 ---
 title: What is version control?
 tags: [Version Control]
+image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
 style: fill
 color: secondary
 description: Benefits of version control and version control systems.
