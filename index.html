@@ -3,5 +3,6 @@ layout: default
 pagination:
   enabled: true
 ---
+{{ paginator.posts | jsonify }}
 
 {% include projects/index.html %}
