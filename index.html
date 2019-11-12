@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-{{ paginator.posts | jsonify }}
+{% for post in paginator.posts %}   
+ {{post.url | jasonfy}}
+{% endfor %} 
 
-<meta http-equiv = "refresh" content = "2; url = /webpage/articles/" />
 
