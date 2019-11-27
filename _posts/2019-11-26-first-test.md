@@ -4,6 +4,8 @@ tags: [Version Control]
 style: fill
 color: secondary
 description: Benefits of version control and version control systems.
+tools: [github,version control]
+image: https://wac-cdn.atlassian.com/dam/jcr:34e935dd-3108-40ef-bb3d-9ed01d977d6d/hero.svg?cdnVersion=la
 ---
 
 Source: [atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
@@ -42,5 +44,5 @@ While it is possible to develop software without using any version control, doin
 
 There are many choices, but here we are going to focus on just one, Git.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkwOTA0NzhdfQ==
+eyJoaXN0b3J5IjpbMTg4NzI2ODMxNl19
 -->
